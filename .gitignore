@@ -202,3 +202,5 @@ ClientBin/
 *.pfx
 *.publishsettings
 orleans.codegen.cs
+appsettings.json
+appsettings.development.json
